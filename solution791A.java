@@ -1,4 +1,4 @@
-package ProblemSet;
+package Codeforces_Solution;
 
 import java.util.Scanner;
 
